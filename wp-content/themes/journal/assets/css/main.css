@@ -1,0 +1,22 @@
+/*
+Theme Name: Journalt
+Author: Léon Morival
+Description: Un thème pour créer facilement un site de journal.
+Version: 1.0
+*/
+
+.nav-link {
+  font-weight: bold !important;
+  background-color: blue;
+}
+.line {
+  display: inline-block;
+  color: white;
+}
+#nav {
+  background-color: blue !important;
+}
+
+.zo {
+  color: blue;
+}
