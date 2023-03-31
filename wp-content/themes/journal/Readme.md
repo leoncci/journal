@@ -11,7 +11,7 @@ comme ceci: wordpress6.2 > **wp-content > themes**
 #### Une fois dedans il vas falloir cloner le repo github de cette facon:
 
 ```sh
-git clone https://github.com/leoncci/journalTheme.git
+git clone https://github.com/leoncci/journal.git
 ```
 
 *C'est fait votre thème est mis en place
