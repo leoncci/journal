@@ -24,25 +24,6 @@
 
     }
 
-
-    /* @media screen and (max-width: 900px) {
-        #nav ul {
-            display: flex !important;
-            display: block !important;
-            justify-content: flex-end !important;
-            float: right !important;
-
-        }
-
-        #nav ul li {
-            margin: 0;
-        }
-    } */
-
-
-
-
-
     #navbarNav {
         justify-content: center;
         justify-content: space-evenly !important;
@@ -100,20 +81,6 @@
     .footer-menu ul li a {
         text-decoration: none;
     }
-
-    /* @media only screen and (max-width: 767px) {
-
-        #nav {
-            justify-content: flex-end;
-            text-align: right;
-            padding: 0;
-
-        }
-
-        #nav ul li a {
-            font-size: 25px;
-        }
-    } */
     </style>
 </head>
 

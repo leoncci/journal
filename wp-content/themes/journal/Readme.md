@@ -17,5 +17,6 @@ git clone https://github.com/leoncci/journalTheme.git
 *C'est fait votre thème est mis en place
 
 ## Activer le thème
-*Si vous vous rendez dans votre espace administeur de wordpress et que vous allez dans thèmes un nouveau thème au nom de journalTheme à du apparaître vous n'avez plus qu'a l'activer pour l'utiliser
+*Si vous vous rendez dans votre espace administeur de wordpress et que vous allez dans thèmes un nouveau thème au nom de journal à du apparaître vous n'avez plus qu'a l'activer pour l'utiliser
 
+# Le site Le Pays utiliser avec le thème se trouve à l'adresse suivant: [lepays.netlify.app](https://lepays.netlify.app/)

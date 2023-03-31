@@ -1,0 +1,63 @@
+<?php return array(
+    'root' => array(
+        'name' => 'siteground/siteground-migrator',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '8a3b85ea537fdb4bb5c999b1a776300c5ab8c66b',
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '2createstudio/shuttleexport' => array(
+            'pretty_version' => 'dev-namespaced',
+            'version' => 'dev-namespaced',
+            'reference' => 'ecd4087b20ad034d410b1dda0416b1467fd1cebe',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../2createStudio/ShuttleExport',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'siteground/siteground-helper' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'ddf75543669faf6d5317d8e4e09b6fb94fcf9b3f',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../siteground/siteground-helper',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'siteground/siteground-i18n' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '714db79a69f373acd8f8023aededc27e94463041',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../siteground/siteground-i18n',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'siteground/siteground-migrator' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '8a3b85ea537fdb4bb5c999b1a776300c5ab8c66b',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'symfony/process' => array(
+            'pretty_version' => 'v2.0.25',
+            'version' => '2.0.25.0',
+            'reference' => '7d92786475f2b7d4a4f4be4f0076732ace155df2',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/process/Symfony/Component/Process',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
